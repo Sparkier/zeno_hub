@@ -72,7 +72,7 @@
 		"d3-interpolate": "^3.0.1",
 		"d3-scale": "^4.0.2",
 		"isomorphic-dompurify": "^1.8.0",
-		"marked": "^11.1.1",
+		"marked": "^15.0.7",
 		"svelte-codemirror-editor": "^1.1.0",
 		"svelte-device-info": "^1.0.0",
 		"svelte-highlight": "^7.5.0",
